@@ -28,14 +28,14 @@ Explora mis proyectos y contribuciones de código abierto.
 <td valign="top">
 
 <p align="center">
-<img src="https://img.shields.io/badge/REPOS-6-0d1117?style=for-the-badge&labelColor=161b22&color=2ea043" alt="Repos" />
+<img src="https://img.shields.io/badge/REPOS-7-0d1117?style=for-the-badge&labelColor=161b22&color=2ea043" alt="Repos" />
 <img src="https://img.shields.io/badge/SEGUIDORES-4-0d1117?style=for-the-badge&labelColor=161b22&color=2ea043" alt="Seguidores" />
 <img src="https://img.shields.io/badge/SIGUIENDO-5-0d1117?style=for-the-badge&labelColor=161b22&color=2ea043" alt="Siguiendo" />
 </p>
 
 **Contribuciones**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IrvinChavez&bg_color=0d1117&color=39d353&line=2ea043&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribuciones" />
+<img src="assets/contrib.svg" width="100%" alt="Contribuciones" />
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ Explora mis proyectos y contribuciones de código abierto.
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvinChavez&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" width="50%" alt="Lenguajes" />
+<img src="assets/langs.svg" width="50%" alt="Lenguajes" />
 
 ### Proyectos destacados
 
