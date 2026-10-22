@@ -1,48 +1,29 @@
-<table>
-<tr>
-<td width="27%" valign="top" align="center">
+<div align="center">
 
-<a href="https://github.com/IrvinChavez"><img src="assets/profile.svg" width="100%" alt="Irvin · @IrvinChavez" /></a>
+## Hola, bienvenido
 
-<sub>🔗 [pagemy.netlify.app](https://pagemy.netlify.app/)</sub>
+Desarrollo apps móviles y sitios web con React, React Native y Firebase, y me interesa crecer en el desarrollo de software multiplataforma.
 
-</td>
-<td width="73%" valign="top">
+</div>
 
-<img src="assets/hero.svg" width="100%" alt="Bienvenido al Hub de Irvin" />
+<img src="assets/summary.svg" width="100%" alt="Resumen de GitHub" />
 
-<img src="assets/contrib.svg" width="100%" alt="Contribuciones" />
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<br />
 
 <sub>**TECNOLOGÍAS**</sub>
 
+<p>
 <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
 <img src="https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
 <img src="https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 <img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/-React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/-Expo-0d1117?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 <img src="https://img.shields.io/badge/-Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
-
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/langs.svg" width="100%" alt="Lenguajes más usados" />
-
-</td>
-</tr>
-</table>
+</p>
 
 <sub>**PROYECTOS DESTACADOS**</sub>
 
@@ -55,14 +36,6 @@
 <td width="50%"><a href="https://github.com/IrvinChavez/POPSTAR"><img src="assets/proj-popstar.svg" width="100%" alt="POPSTAR" /></a></td>
 <td width="50%"><a href="https://github.com/IrvinChavez/POKEAPI"><img src="assets/proj-pokeapi.svg" width="100%" alt="POKEAPI" /></a></td>
 </tr>
-<tr>
-<td width="50%"><a href="https://github.com/IrvinChavez/ProyectoCalculo"><img src="assets/proj-proyectocalculo.svg" width="100%" alt="ProyectoCalculo" /></a></td>
-<td width="50%" valign="top">
-
-<img src="assets/activity.svg" width="100%" alt="Actividad reciente" />
-
-</td>
-</tr>
 </table>
 
 <p align="center">
@@ -70,5 +43,3 @@
 <a href="https://www.instagram.com/gozho_go"><img src="https://img.shields.io/badge/Instagram-gozho__go-0d1117?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=161b22" alt="Instagram" /></a>
 <a href="mailto:a1124150102@utch.edu.mx"><img src="https://img.shields.io/badge/Correo-a1124150102@utch.edu.mx-0d1117?style=flat-square&labelColor=161b22" alt="Correo" /></a>
 </p>
-
-<p align="center"><sub>Panel generado con datos reales de GitHub · se actualiza cada día · <a href="https://irvinchavez.github.io/">ver Hub completo</a></sub></p>
