@@ -9,8 +9,6 @@ Explora mis proyectos y contribuciones de código abierto.
 <img src="https://img.shields.io/badge/SIGUIENDO-5-0d1117?style=for-the-badge&labelColor=161b22&color=2ea043" alt="Siguiendo" />
 <img src="https://img.shields.io/badge/ESTRELLAS-0-0d1117?style=for-the-badge&labelColor=161b22&color=2ea043" alt="Estrellas" />
 
-<img src="assets/contrib.svg" width="100%" alt="Contribuciones" />
-
 </div>
 
 <table>
