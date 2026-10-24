@@ -1,31 +1,59 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=Irvin%20Chavez&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Desarrollo%20de%20software%20multiplataforma&descSize=16&descAlignY=60" width="100%" alt="Irvin Chavez" />
+
+
 <div align="center">
 
-## Hola, bienvenido
 
-Desarrollo apps móviles y sitios web con React, React Native y Firebase, y me interesa crecer en el desarrollo de software multiplataforma.
+<a href="https://github.com/IrvinChavez">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Apps+m%C3%B3viles+con+React+Native+y+Expo;Sitios+web+con+React%2C+Vite+y+Tailwind;Backend+y+datos+con+Firebase;Creciendo+en+software+multiplataforma" alt="Typing SVG" />
+</a>
+
 
 </div>
 
-<img src="assets/summary.svg" width="100%" alt="Resumen de GitHub" />
 
 <br />
 
-<sub>**TECNOLOGÍAS**</sub>
+
+### Sobre mí
+
+
+Desarrollo apps móviles y sitios web con **React**, **React Native** y **Firebase**. Me interesa crecer en el desarrollo de software multiplataforma, construyendo productos que funcionen igual de bien en web y en móvil, con interfaces cuidadas y código mantenible.
+
+
+<br />
+
+
+### Tecnologías
+
 
 <p>
-<img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/-Expo-0d1117?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/-Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/-React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/-Expo-0d1117?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/-Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+<img src="https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/-Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
 </p>
 
-<sub>**PROYECTOS DESTACADOS**</sub>
+
+<br />
+
+
+### Proyectos destacados
+
 
 <table>
 <tr>
@@ -38,8 +66,28 @@ Desarrollo apps móviles y sitios web con React, React Native y Firebase, y me i
 </tr>
 </table>
 
-<p align="center">
-<a href="https://pagemy.netlify.app/"><img src="https://img.shields.io/badge/Sitio_web-pagemy.netlify.app-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7&labelColor=161b22" alt="Sitio web" /></a>
-<a href="https://www.instagram.com/gozho_go"><img src="https://img.shields.io/badge/Instagram-gozho__go-0d1117?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=161b22" alt="Instagram" /></a>
-<a href="mailto:a1124150102@utch.edu.mx"><img src="https://img.shields.io/badge/Correo-a1124150102@utch.edu.mx-0d1117?style=flat-square&labelColor=161b22" alt="Correo" /></a>
-</p>
+
+<br />
+
+
+### Estadísticas
+
+
+<img src="assets/summary.svg" width="100%" alt="Resumen de GitHub" />
+
+
+<br />
+
+
+### Contribuciones
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrvinChavez/IrvinChavez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrvinChavez/IrvinChavez/output/github-snake.svg" />
+  <img alt="Gráfica de contribuciones animada" src="https://raw.githubusercontent.com/IrvinChavez/IrvinChavez/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=70&section=footer" width="100%" alt="" />
+
