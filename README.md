@@ -1,31 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=Irvin%20Chavez&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Desarrollo%20de%20software%20multiplataforma&descSize=16&descAlignY=60" width="100%" alt="Irvin Chavez" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Irvin%20Chavez&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" alt="Irvin Chavez" />
 
 <div align="center">
-
 
 <a href="https://github.com/IrvinChavez">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Apps+m%C3%B3viles+con+React+Native+y+Expo;Sitios+web+con+React%2C+Vite+y+Tailwind;Backend+y+datos+con+Firebase;Creciendo+en+software+multiplataforma" alt="Typing SVG" />
 </a>
 
-
 </div>
 
-
 <br />
-
-
-### Sobre mí
-
-
-Desarrollo apps móviles y sitios web con **React**, **React Native** y **Firebase**. Me interesa crecer en el desarrollo de software multiplataforma, construyendo productos que funcionen igual de bien en web y en móvil, con interfaces cuidadas y código mantenible.
-
-
-<br />
-
 
 ### Tecnologías
-
 
 <p>
 <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -48,12 +33,9 @@ Desarrollo apps móviles y sitios web con **React**, **React Native** y **Fireba
 <img src="https://img.shields.io/badge/-Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
 </p>
 
-
 <br />
 
-
 ### Proyectos destacados
-
 
 <table>
 <tr>
@@ -66,21 +48,15 @@ Desarrollo apps móviles y sitios web con **React**, **React Native** y **Fireba
 </tr>
 </table>
 
-
 <br />
-
 
 ### Estadísticas
 
-
 <img src="assets/summary.svg" width="100%" alt="Resumen de GitHub" />
-
 
 <br />
 
-
 ### Contribuciones
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrvinChavez/IrvinChavez/output/github-snake-dark.svg" />
@@ -88,6 +64,4 @@ Desarrollo apps móviles y sitios web con **React**, **React Native** y **Fireba
   <img alt="Gráfica de contribuciones animada" src="https://raw.githubusercontent.com/IrvinChavez/IrvinChavez/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=70&section=footer" width="100%" alt="" />
-
